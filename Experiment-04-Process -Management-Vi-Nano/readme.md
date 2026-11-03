@@ -694,3 +694,7 @@ The experiment helped in understanding process identification, background execut
 <p align="center">
   ⭐ If you find this repository useful, consider giving it a star!
 </p>
+<img width="1280" height="960" alt="WhatsApp Image 2026-11-03 at 12 22 15 PM" src="https://github.com/user-attachments/assets/d8597d8b-d3d1-4ae4-a4a8-7755fcabaedd" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-11-03 at 12 22 15 PM1" src="https://github.com/user-attachments/assets/3c09b7b7-d308-4d6f-8a7f-d81db95e3156" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 22 15 PM2" src="https://github.com/user-attachments/assets/226acdee-d274-4c0f-bbd8-7ab0322f6d5b" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 22 16 PM3" src="https://github.com/user-attachments/assets/142985d7-0da8-42fa-9934-73bb3fa793af" />
