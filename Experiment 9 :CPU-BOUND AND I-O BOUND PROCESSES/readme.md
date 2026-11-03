@@ -724,3 +724,8 @@ CPU-bound and I/O-bound processes were successfully studied and implemented usin
   <br/><br/>
   ⭐ If you find this repository useful, consider giving it a star!
 </p>
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 13 38 PM" src="https://github.com/user-attachments/assets/4238fb83-3663-447c-9cf1-7c4f58ecdb27" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 13 37 PM" src="https://github.com/user-attachments/assets/6c19146a-3694-4587-97fc-06f90fac060a" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 13 37 PM (1)" src="https://github.com/user-attachments/assets/e74e1168-4b72-45bd-8783-906719f7d552" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-11-03 at 12 13 36 PM" src="https://github.com/user-attachments/assets/d91b775b-0818-4d53-9569-3fdcc12ddc07" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-11-03 at 12 13 36 PM (1)" src="https://github.com/user-attachments/assets/0c88dd03-1338-4aa5-9346-f97c2a606765" />
