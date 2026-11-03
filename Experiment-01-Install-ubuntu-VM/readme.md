@@ -627,3 +627,10 @@ The Linux terminal commands were executed successfully to verify operating syste
   <b>OPERATING SYSTEMS LABORATORY</b><br>
   <i>Explore • Install • Configure • Verify</i>
 </p>
+<img width="719" height="367" alt="Screenshot 2026-11-03 123546" src="https://github.com/user-attachments/assets/6a6645e0-5e69-4b6b-96d3-b9c644744b16" />
+<img width="926" height="350" alt="Screenshot 2026-11-03 123540" src="https://github.com/user-attachments/assets/754db201-8f47-4444-b895-d17c05530b26" />
+<img width="734" height="362" alt="Screenshot 2026-11-03 123532" src="https://github.com/user-attachments/assets/d2623291-b955-4e1a-be04-2b707b04df8b" />
+<img width="788" height="379" alt="Screenshot 2026-11-03 123525" src="https://github.com/user-attachments/assets/826e8045-3a44-4882-9d3f-da9aaf4502f9" />
+<img width="696" height="362" alt="Screenshot 2026-11-03 123516" src="https://github.com/user-attachments/assets/4ee29245-c4cc-4694-8e7b-35e935089d2e" />
+<img width="742" height="369" alt="Screenshot 2026-11-03 123458" src="https://github.com/user-attachments/assets/a3c5d437-da8b-448b-8ab3-fa7684be2ef1" />
+<img width="752" height="373" alt="Screenshot 2026-11-03 123438" src="https://github.com/user-attachments/assets/adea700b-246a-4325-a15e-39ba9be89525" />
