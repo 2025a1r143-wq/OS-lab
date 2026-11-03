@@ -631,3 +631,9 @@ String operations were successfully studied and implemented using Bash shell scr
   <br/><br/>
   ⭐ If you find this repository useful, consider giving it a star!
 </p>
+<img width="269" height="365" alt="Screenshot 2026-11-03 124559" src="https://github.com/user-attachments/assets/69594f8d-320b-4988-994f-cdf3bcaead75" />
+<img width="266" height="367" alt="Screenshot 2026-11-03 124554" src="https://github.com/user-attachments/assets/f6c45d9b-135a-460a-80e8-09add101bd9a" />
+<img width="266" height="361" alt="Screenshot 2026-11-03 124547" src="https://github.com/user-attachments/assets/4acf8e91-fdb4-41b3-a887-a59c77f15841" />
+<img width="264" height="368" alt="Screenshot 2026-11-03 124540" src="https://github.com/user-attachments/assets/2f48d160-f0a6-4785-a270-54d8c53168f6" />
+<img width="271" height="365" alt="Screenshot 2026-11-03 124532" src="https://github.com/user-attachments/assets/c69993c8-7db8-4943-944a-c66777e2f59a" />
+<img width="494" height="371" alt="Screenshot 2026-11-03 124527" src="https://github.com/user-attachments/assets/9ccf0b00-1f80-44cf-bf6c-03332442ff0d" />
