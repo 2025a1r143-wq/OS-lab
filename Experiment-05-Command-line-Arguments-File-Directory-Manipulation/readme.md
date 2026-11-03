@@ -751,3 +751,6 @@ The experiment helped in understanding command-line argument handling, condition
 <p align="center">
   ⭐ If you find this repository useful, consider giving it a star!
 </p>
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 23 45 PM51" src="https://github.com/user-attachments/assets/0d6a5828-9a94-4310-b5f5-d3a16eaf062e" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 24 22 PM52" src="https://github.com/user-attachments/assets/0843050f-dfec-4c2a-be93-6127163d6c13" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-03 at 12 24 36 PM53" src="https://github.com/user-attachments/assets/d7e0acc2-7007-4c9d-a564-edfe1b817f19" />
