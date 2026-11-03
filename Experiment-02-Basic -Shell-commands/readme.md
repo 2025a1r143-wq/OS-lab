@@ -799,3 +799,4 @@ File permissions, ownership and directory information were also examined using t
   <b>OPERATING SYSTEMS LABORATORY</b><br>
   <i>Learn • Execute • Explore • Understand</i>
 </p>
+<img width="641" height="396" alt="Screenshot 2026-11-03 123007" src="https://github.com/user-attachments/assets/3304af0e-3e94-45fb-b14e-2893d5bcde6c" />
