@@ -622,3 +622,5 @@ The experiment helped in understanding file handling, command chaining and text 
 <p align="center">
   ⭐ If you find this repository useful, consider giving it a star!
 </p>
+<img width="1600" height="960" alt="WhatsApp Image 2026-11-03 at 12 19 54 PM" src="https://github.com/user-attachments/assets/cae65a0d-ab8a-408b-a595-35520f577633" />
+<img width="946" height="436" alt="WhatsApp Image 2026-11-03 at 12 20 23 PM" src="https://github.com/user-attachments/assets/651b5df8-b622-4d9d-bb52-afaaf0534d2a" />
