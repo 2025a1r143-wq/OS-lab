@@ -808,3 +808,8 @@ User information commands, login history commands, line extraction, text searchi
   <br/><br/>
   ⭐ If you find this repository useful, consider giving it a star!
 </p>
+<img width="476" height="361" alt="Screenshot 2026-11-03 124407" src="https://github.com/user-attachments/assets/4ea8d11f-31bf-4388-926e-bffb146a60c7" />
+<img width="490" height="362" alt="Screenshot 2026-11-03 124401" src="https://github.com/user-attachments/assets/47e3fbd1-aa43-414b-8654-2156b7df6d30" />
+<img width="278" height="368" alt="Screenshot 2026-11-03 124351" src="https://github.com/user-attachments/assets/c44bc9bf-fe6a-447b-8f84-bca71792b0e0" />
+<img width="478" height="359" alt="Screenshot 2026-11-03 124338" src="https://github.com/user-attachments/assets/ee09c574-a348-4861-af64-9995c73fda25" />
+<img width="473" height="334" alt="Screenshot 2026-11-03 124329" src="https://github.com/user-attachments/assets/904c4353-84e2-44cc-830c-952d7e4abd33" />
